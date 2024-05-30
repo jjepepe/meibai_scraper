@@ -1,0 +1,2 @@
+# meibai_scraper
+是一个用于从百度搜索结果中爬取关于“美白”词条信息的Python脚本。这个项目使用requests库进行网页请求，并使用BeautifulSoup库解析HTML文档，提取相关搜索结果的标题和链接。
