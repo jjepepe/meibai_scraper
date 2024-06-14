@@ -10,3 +10,4 @@ pip install -r requirements.txt
 # 真不知道还有多少可以撸的
 一定要坚持
 so cool
+人生苦短，需要努力！
