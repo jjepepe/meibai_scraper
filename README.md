@@ -7,7 +7,6 @@
 git clone https://github.com/yourusername/baidu_meibai_scraper.git
 cd baidu_meibai_scraper
 pip install -r requirements.txt
-# 真不知道还有多少可以撸的
 一定要坚持
 so cool
 人生苦短，需要努力！
