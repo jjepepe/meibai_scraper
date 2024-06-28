@@ -8,6 +8,3 @@ git clone https://github.com/yourusername/baidu_meibai_scraper.git
 cd baidu_meibai_scraper
 人生苦短，需要努力！
 不停旋转
-可以可以可以
-态度决定一切
-都有好的结果，放心吧
