@@ -7,3 +7,4 @@
 git clone https://github.com/yourusername/baidu_meibai_scraper.git
 cd baidu_meibai_scraper
 will to the moon
+所有事情都要慢慢变好！
